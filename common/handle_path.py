@@ -9,7 +9,4 @@ DATA_DIR=os.path.join(BASE_DIR,"datas")
 REPORT_DIR=os.path.join(BASE_DIR,"reports")
 CASES_DIR=os.path.join(BASE_DIR,"testcases")
 
-print(LOG_DIR)
-print(CONF_DIR)
-print(DATA_DIR)
-print(CASES_DIR)
+
